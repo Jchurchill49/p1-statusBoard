@@ -15,4 +15,8 @@ http://jchurchill49.github.io/P1-468-table
 
 http://jchurchill49.github.io/P1-468-officeHours 
 
-http://jchurchill49.github.io/P1-468-Title                                       http://jchurchill49.github.io/P1-468-profInfo                                              http://jchurchill49.github.io/P1-468
+http://jchurchill49.github.io/P1-468-Title                                       
+
+http://jchurchill49.github.io/P1-468-profInfo   
+
+http://jchurchill49.github.io/P1-468
