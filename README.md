@@ -11,8 +11,4 @@ The other route, is to create an html file and create your own panel. If you kno
 ##Results/Share:
 After making a status board, I think that it is a great idea, but may be limited in its actual utility. To set up a status board, there are quite a few steps that need to be followed, especially if the user is adding their own custom information. Updating the information could become The status board must be set up 
 
-http://jchurchill49.github.io/P1-468-table
-http://jchurchill49.github.io/P1-468-officeHours
-http://jchurchill49.github.io/P1-468-Title
-http://jchurchill49.github.io/P1-468-profInfo
-http://jchurchill49.github.io/P1-468
+http://jchurchill49.github.io/P1-468-table                                     http://jchurchill49.github.io/P1-468-officeHours                                      http://jchurchill49.github.io/P1-468-Title                                       http://jchurchill49.github.io/P1-468-profInfo                                              http://jchurchill49.github.io/P1-468
