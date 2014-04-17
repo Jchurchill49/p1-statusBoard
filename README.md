@@ -9,7 +9,9 @@ Panic.com provides instructions on how to add info. to the status board, and pro
 The other route, is to create an html file and create your own panel. If you know html, this is an easy process, the only hitch might come in hosting the file, but this can be done on a webiste like github that will host the file for free. It is also important to keep in mind that the status board panels scale at certain ratios that are preset. So the html file should be sized to match.  
 
 ##Results/Share:
-After making a status board, I think that it is a great idea, but may be limited in its actual utility. To set up a status board, there are quite a few steps that need to be followed, especially if the user is adding their own custom information. Updating the information could become The status board must be set up 
+After making a status board, I think that it is a great idea, but may be limited in its actual utility. To set up a status board, there are quite a few steps that need to be followed, especially if the user is adding their own custom information. Updating the information could become tedious unless the user knows how to set it up to automatically update. I would not recommend the status board for someone who doesn't know a lot about computers and the internet, because although it is pretty simple to set up for a person who already knows what they are doing it wouldn't be for someone who doesn't. I do think that this app is great for businesses who want to communicate with multiple employees at once and that have the resources to have a person in charge of maintaing the data. 
+
+###Here are the links to my DIY panels:
 
 http://jchurchill49.github.io/P1-468-table 
 
