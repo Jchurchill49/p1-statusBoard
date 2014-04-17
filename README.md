@@ -9,3 +9,4 @@ Panic.com provides instructions on how to add info. to the status board, and pro
 The other route, is to create an html file and create your own panel. If you know html, this is an easy process, the only hitch might come in hosting the file, but this can be done on a webiste like github that will host the file for free. It is also important to keep in mind that the status board panels scale at certain ratios that are preset. So the html file should be sized to match.  
 
 ##Results/Share:
+After making a status board, I think that it is a great idea, but may be limited in its actual utility. To set up a status board, there are quite a few steps that need to be followed, especially if the user is adding their own custom information. Updating the information could become The status board must be set up 
